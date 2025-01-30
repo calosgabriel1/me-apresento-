@@ -1,5 +1,5 @@
 # Carlos Gabriel 
-
+# Sera q foi?
 estou cursando front end proficional pela dio 
 
 # Habilidades 💪
